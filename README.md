@@ -13,3 +13,6 @@ A multicharacter system built for [qbx_core](https://github.com/Qbox-project/qbx
 
 # Feature Request & Issue Reporting
 Please open an issue here on github.
+
+# Download original bub-multichar from BubbleDK ❤️
+[bub-multichar](https://github.com/BubbleDK/bub-multichar)
